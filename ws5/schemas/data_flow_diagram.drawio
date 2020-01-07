@@ -1,1 +1,36 @@
-<mxfile type="github" version="12.4.9" host="www.draw.io" modified="2020-01-07T19:58:32.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299" etag="kgYflp0alEVXWOKAPlVT"><diagram id="1LtGkpLCPf3KZeVMqJkY" name="Page-1">7Vjbbts4EP0aA+1DAkuyHOcxvrTFttstYgPFPjLSSCIqiQJF3/r1OyNS1tWxm3VcoO1DHPJwOBzOHA6HGjizZPdesiz6W/gQD+xhKLk/cOYD27bwDwF/p7v39tAAew24w5EGaMqSfwczzYiFa+5D3lClhIgVz5qgJ9IUPNXAmJRi2xQLRNy0K2MhdIClx+Iu+pX7KtLoxB1W+AfgYVSubA3NSMJKYQPkEfPFtgY5i4Ezk0Io3Up2M4jJd6XnzLyB/e6IgLFtw+K1sXYFO1UaJiFVTQPUvtzVKc3w18PNx0Cm/mLz72M2cfIvj6ObUWe5gT2OcY1phJaMQ2rNmWIo8y7GndrDOWehZAm2vnIJATYB2ytIspgpKGejGZWCEsxKYBXxnOgivHVCO0IjqU+rbGtK3yij9S0JQ87DlKgSMZohVAQS/0sIea7k/ibPwOMB90hWWxxoi31tca6pgthtzcrsGSOhZQ/yMce1SJEI8CcVRGO0O/XxF/wQclQ9/GxgCZmEXO/PWJSLtfRocEYbYTIEZTpaB05UPGWK40qkakE6W6pUYZeEWItFdGrs4ROoLUB6GC9sO7LRNpesDpcUcQ45oJIYAQub6GLxDWYiFhKRVKQoOQ14HLegPGMeT0ME3Kq3EhkCN8hOZ7qNuIIl4rTUFvMLYmIDsgiWM4+47+M2nKkU69QH4u7wYDSKoWU1ow3T34NIADlAfjS5ITxANNHMGZlTs292t1USsMYGi2oJwOkcW2yY8/UDZ80946x9hP15R+hPZJ+LrDM5M7Sji0TWuusJ7elYoGY8vHDEdbUQMcptpCbgO3LchZx21zoOTtdpo1fzWc9Nd47PNFvLa9tqUTliGcklu5AKl1tinhcxqW6xgmH7I46WQhWplIh8fzlKtrzr2lf1rn1V7+Lt9sSOMvlV/Dm2rurP44WSzzdlAv4ksMhEqU+woYr5kKFrIj2z3iyLquDtsQkvSeospmLJmXs4C8skZ0re52jdgxlIMBvT9CnWFfw7eypUEfkzwVNVxMGdDtw56VorkesinlQHIlWmprdGl0vgbjMX3XWje/960e3L3504LVVR4P5odFdFmfcnuvVcOL5qdCfnRPdzcQe85PjOq6L9N49yK0P3RPnwlL58mJ1OlM3r6fTTORbet6IgtSpf8Jw/leMnX+39VeH4jDv4ua3US0XcytJ0cS5X+0fzAFxUI42w2k0yQeo/0KcT7C4eE3xt/qOLenyEqr4BbQEt+wI+nAr4AdSv2E3PGl+IwrUF9MvZoDXOuZMjZUEtWG1d+uHd1TVu6XI7ugpiHrb/P1JShxnmo8HP4mpfijyLqnaXqj/5VWO3omj1FN59T8HxRbLQ/a/rSNu9piPLs/cretLpuRlf4knsVt+adW6qPtg7i/8A</diagram></mxfile>
+<mxfile type="github" version="12.4.9" etag="0rAUdSBEPbfJM0vfwa50" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299" modified="2020-01-07T20:07:06.717Z" host="www.draw.io">
+  <diagram id="1LtGkpLCPf3KZeVMqJkY" name="Page-1">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="850" pageWidth="1100" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="1155" dx="1955">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" value="Text" style="locked=1;" parent="0"/>
+        <mxCell id="eJA-KfrndEvYRp83sPR4-4" value="&lt;h1&gt;Data Flow Diagram Wireframe Template&lt;/h1&gt;&lt;p&gt;This document is a wireframe (template) design that other registry-specific data flow diagrams follow.&lt;/p&gt;&lt;p&gt;The wireframe consists of nodes and edges. Nodes represent data sources, targets, and destinations. Edges represent the relationships between the nodes.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry as="geometry" height="320" width="160" y="40" x="40"/>
+        </mxCell>
+        <mxCell id="eJA-KfrndEvYRp83sPR4-5" value="&lt;h1&gt;Key&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry as="geometry" height="40" width="160" y="380" x="40"/>
+        </mxCell>
+        <mxCell id="eJA-KfrndEvYRp83sPR4-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry as="geometry" height="40" width="40" y="430" x="70"/>
+        </mxCell>
+        <mxCell id="eJA-KfrndEvYRp83sPR4-21" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry as="geometry" height="40" width="40" y="520" x="70"/>
+        </mxCell>
+        <mxCell id="eJA-KfrndEvYRp83sPR4-22" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry as="geometry" height="40" width="40" y="610" x="70"/>
+        </mxCell>
+        <mxCell id="eJA-KfrndEvYRp83sPR4-24" value="&lt;div&gt;Local Level&lt;/div&gt;&lt;div&gt;(Source)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry as="geometry" height="40" width="90" y="470" x="45"/>
+        </mxCell>
+        <mxCell id="eJA-KfrndEvYRp83sPR4-27" value="&lt;div&gt;State Level&lt;/div&gt;&lt;div&gt;(Target)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry as="geometry" height="40" width="90" y="560" x="45"/>
+        </mxCell>
+        <mxCell id="eJA-KfrndEvYRp83sPR4-28" value="&lt;div&gt;National Level&lt;/div&gt;&lt;div&gt;(Destination)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry as="geometry" height="40" width="100" y="660" x="40"/>
+        </mxCell>
+        <mxCell id="eJA-KfrndEvYRp83sPR4-3" value="Edges" style="" parent="0"/>
+        <mxCell id="eJA-KfrndEvYRp83sPR4-2" value="Nodes" style="" parent="0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
