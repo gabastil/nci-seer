@@ -1,9 +1,9 @@
-<mxfile type="github" version="12.5.1" host="www.draw.io" modified="2020-01-10T19:35:49.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299" etag="pS8_E0FjbTMUmZnpFJig">
+<mxfile type="github" version="12.5.1" host="www.draw.io" modified="2020-01-10T19:36:47.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299" etag="PBBfw0lZEPOOYFKw13LC">
   <diagram id="1LtGkpLCPf3KZeVMqJkY" name="Page-1">
     <mxGraphModel grid="1" dx="853" dy="462" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
-        <mxCell id="1" value="Text" parent="0" style="locked=1;"/>
+        <mxCell id="1" value="Text" parent="0" style=""/>
         <mxCell id="eJA-KfrndEvYRp83sPR4-4" value="&lt;h1&gt;Data Flow Diagram Wireframe Template&lt;/h1&gt;&lt;p&gt;This document is a wireframe (template) design that other registry-specific data flow diagrams follow.&lt;/p&gt;&lt;p&gt;The wireframe consists of nodes and edges. Nodes represent data sources, targets, and destinations. Edges represent the relationships between the nodes.&lt;/p&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1">
           <mxGeometry as="geometry" x="40" y="40" width="160" height="320"/>
         </mxCell>
@@ -25,8 +25,8 @@
         <mxCell id="eJA-KfrndEvYRp83sPR4-27" value="&lt;div&gt;State Level&lt;/div&gt;&lt;div&gt;(Target)&lt;/div&gt;" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1">
           <mxGeometry as="geometry" x="45" y="560" width="90" height="40"/>
         </mxCell>
-        <mxCell id="eJA-KfrndEvYRp83sPR4-28" value="&lt;div&gt;National Level&lt;/div&gt;&lt;div&gt;(Destination)&lt;/div&gt;" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1">
-          <mxGeometry as="geometry" x="40" y="660" width="100" height="40"/>
+        <mxCell id="eJA-KfrndEvYRp83sPR4-28" value="&lt;div&gt;State Level&lt;/div&gt;&lt;div&gt;(Destination)&lt;/div&gt;" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1">
+          <mxGeometry as="geometry" x="45" y="660" width="90" height="40"/>
         </mxCell>
         <mxCell id="Dlc9sbz_LcFVTC8bd_fI-2" value="Sample Paper" parent="0" style="locked=1;"/>
         <mxCell id="Dlc9sbz_LcFVTC8bd_fI-3" value="" parent="Dlc9sbz_LcFVTC8bd_fI-2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#CCCCCC;glass=0;" vertex="1">
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VWDTbTLpo9gcU3BS0fsp-1" value="&lt;div align=&quot;left&quot;&gt;2020-01-10: (MM) Destination would still be state level &lt;/div&gt;&lt;div align=&quot;left&quot;&gt;because it&#39;s still the registry&#39;s local instance.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2020-01-10: (MM) For National Level change to State Level and mention that IMS is the custodian of the data that the state still owns.&lt;br&gt;&lt;/div&gt;" parent="eJA-KfrndEvYRp83sPR4-3" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1">
-          <mxGeometry as="geometry" x="80" y="760" width="720" height="50"/>
+          <mxGeometry as="geometry" x="30" y="780" width="200" height="50"/>
         </mxCell>
         <mxCell id="eJA-KfrndEvYRp83sPR4-2" value="Nodes" parent="0" style=""/>
         <mxCell id="Dlc9sbz_LcFVTC8bd_fI-7" value="" parent="eJA-KfrndEvYRp83sPR4-2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1">
