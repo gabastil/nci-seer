@@ -10,13 +10,10 @@ Contents
 
 
 ### Detroit <a id="Detroit"></a>
-![Utah.svg](Detroit.svg?sanitize=True)
-<img src="Detroit.svg?sanitize=True" />
+<img src="Detroit.svg?sanitize=True" width="50%" />
 
 ### Georgia <a id="Georgia"></a>
-![Utah.svg](Georgia.svg?sanitize=True)
-<img src="Georgia.svg?sanitize=True" />
+<img src="Georgia.svg?sanitize=True" width="50%" />
 
 ### Utah <a id="Utah"></a>
-![Utah.svg](Utah.svg?sanitize=True)
-<img src="Utah.svg?sanitize=True" />
+<img src="Utah.svg?sanitize=True" width="50%" />
