@@ -3,21 +3,28 @@ February 5, 2020 | Glenn Abastillas
 
 This folder contains the data diagram wireframes for registries. These wireframes are in .svg format and can be opened via [draw.io](draw.io) or Visio software.
 
-Contents <a id="contents"></a>
- 1. [Connecticut](#Connecticut)
- 1. [Detroit](#Detroit)
- 1. [Greater_Bay_Area_of_California](#Greater_Bay_Area_of_California)
- 1. [Greater_California](#Greater_California)
- 1. [Georgia](#Georgia)
- 1. [Hawaii](#Hawaii)
- 1. [Iowa](#Iowa)
- 1. [Kentucky](#Kentucky)
- 1. [Los_Angeles](#Los_Angeles)
- 1. [Louisiana](#Louisiana)
- 1. [New_Mexico](#New_Mexico)
- 1. [New_York](#New_York)
- 1. [Seattle](#Seattle)
- 1. [Utah](#Utah)
+## Contents <a id="contents"></a>
+
+Registries with data diagrams completed are listed below with the month and year of their latest versions.
+
+Number | State |  8/2018 | 1/2020 | 02/2020
+:-: | --- | --- | --- | ---
+1. | [Connecticut](#Connecticut) |  | | &check; 
+2. | [Detroit](#Detroit) | | &check; | 
+3. | [Georgia](#Georgia) | &check; | | 
+4. | [Greater_Bay_Area_of_California](#Greater_Bay_Area_of_California) | | | &check;
+5. | [Greater_California](#Greater_California) | | &check; 
+6. | [Hawaii](#Hawaii) | | | &check;
+7. | [Iowa](#Iowa) | | | &check; 
+8. | [Kentucky](#Kentucky) | | | &check;
+9. | [Los_Angeles](#Los_Angeles) | | | &check;
+10. | [Louisiana](#Louisiana) | | | &check;
+11. | [New_Mexico](#New_Mexico) | | | &check;
+12. | [New_York](#New_York) | | | &check;
+13. | [Seattle](#Seattle) | &check; | &check; | 
+14. | [Utah](#Utah) | | &check; | 
+
+---
 
 ### Connecticut <a id="Connecticut"></a>
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
