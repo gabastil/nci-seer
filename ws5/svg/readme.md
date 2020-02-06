@@ -9,11 +9,11 @@ Registries with data diagrams completed are listed below with the month and year
 
 Number | State |  8/2018 | 1/2020 | 02/2020
 :-: | --- | --- | --- | ---
-1. | [Connecticut](#Connecticut) |  | | &check; 
+1. | [Connecticut](#Connecticut) | | | &check; 
 2. | [Detroit](#Detroit) | | &check; | 
 3. | [Georgia](#Georgia) | &check; | | 
 4. | [Greater_Bay_Area_of_California](#Greater_Bay_Area_of_California) | | | &check;
-5. | [Greater_California](#Greater_California) | | &check; 
+5. | [Greater_California](#Greater_California) | | &check; |
 6. | [Hawaii](#Hawaii) | | | &check;
 7. | [Iowa](#Iowa) | | | &check; 
 8. | [Kentucky](#Kentucky) | | | &check;
