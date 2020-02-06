@@ -8,7 +8,7 @@ This folder contains the data diagram wireframes for registries. These wireframe
 Registries with data diagrams completed are listed below with the month and year of their latest versions.
 
 Number | State |  8/2018 | 1/2020 | 02/2020
-:-: | --- | --- | --- | ---
+--- | --- | --- | --- | ---
 1. | [Connecticut](#Connecticut) | | | &check; 
 2. | [Detroit](#Detroit) | | &check; | 
 3. | [Georgia](#Georgia) | &check; | | 
