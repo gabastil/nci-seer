@@ -7,22 +7,22 @@ This folder contains the data diagram wireframes for registries. These wireframe
 
 Registries with data diagrams completed are listed below with the month and year of their latest versions.
 
-Number | State |  8/2018 | 1/2020 | 02/2020
---- | --- | --- | --- | ---
-1. | [Connecticut](#Connecticut) | | | &check; 
-2. | [Detroit](#Detroit) | | &check; | 
-3. | [Georgia](#Georgia) | &check; | | 
-4. | [Greater_Bay_Area_of_California](#Greater_Bay_Area_of_California) | | | &check;
-5. | [Greater_California](#Greater_California) | | &check; |
-6. | [Hawaii](#Hawaii) | | | &check;
-7. | [Iowa](#Iowa) | | | &check; 
-8. | [Kentucky](#Kentucky) | | | &check;
-9. | [Los_Angeles](#Los_Angeles) | | | &check;
-10. | [Louisiana](#Louisiana) | | | &check;
-11. | [New_Mexico](#New_Mexico) | | | &check;
-12. | [New_York](#New_York) | | | &check;
-13. | [Seattle](#Seattle) | &check; | &check; | 
-14. | [Utah](#Utah) | | &check; | 
+State |  8/2018 | 1/2020 | 02/2020
+--- | --- | --- | ---
+[Connecticut](#Connecticut) | | | &check; 
+[Detroit](#Detroit) | | &check; | 
+[Georgia](#Georgia) | &check; | | 
+[Greater_Bay_Area_of_California](#Greater_Bay_Area_of_California) | | | &check;
+[Greater_California](#Greater_California) | | &check; |
+[Hawaii](#Hawaii) | | | &check;
+[Iowa](#Iowa) | | | &check; 
+[Kentucky](#Kentucky) | | | &check;
+[Los_Angeles](#Los_Angeles) | | | &check;
+[Louisiana](#Louisiana) | | | &check;
+[New_Mexico](#New_Mexico) | | | &check;
+[New_York](#New_York) | | | &check;
+[Seattle](#Seattle) | &check; | &check; | 
+[Utah](#Utah) | | &check; | 
 
 ---
 
