@@ -21,7 +21,7 @@ State |  8/2018 | 1/2020 | 02/2020
 [Louisiana](#Louisiana) | | | &check;
 [New_Mexico](#New_Mexico) | | | &check;
 [New_York](#New_York) | | | &check;
-[Seattle](#Seattle) | &check; | &check; | 
+[Seattle](#Seattle) | &check; | | 
 [Utah](#Utah) | | &check; | 
 
 ---
