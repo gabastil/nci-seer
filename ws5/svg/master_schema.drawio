@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.6.7" host="www.draw.io" modified="2020-02-10T22:05:05.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="4ad6QmrLY_jenVadteor">
+<mxfile type="github" version="12.6.7" host="www.draw.io" modified="2020-02-10T22:07:57.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="Fw4zdHuDjEXPaFmUyrHF">
   <diagram id="4_loe-rSwXjhO66IxARF" name="master_schema">
     <mxGraphModel grid="1" dx="1422" dy="792" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -81,9 +81,6 @@
         <mxCell id="EVoNSvgZZDJ8XkAlmknF-16" value="J" parent="EVoNSvgZZDJ8XkAlmknF-10" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1">
           <mxGeometry as="geometry" x="580" y="440" width="60" height="60"/>
         </mxCell>
-        <mxCell id="EVoNSvgZZDJ8XkAlmknF-18" value="L" parent="EVoNSvgZZDJ8XkAlmknF-10" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1">
-          <mxGeometry as="geometry" x="900" y="200" width="60" height="60"/>
-        </mxCell>
         <mxCell id="EVoNSvgZZDJ8XkAlmknF-22" value="B" parent="EVoNSvgZZDJ8XkAlmknF-10" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;flipV=1;" vertex="1">
           <mxGeometry as="geometry" x="140" y="272" width="60" height="60"/>
         </mxCell>
@@ -104,6 +101,9 @@
         </mxCell>
         <mxCell id="2Q-l-OiIUTWmhhpuc4lq-66" value="&lt;div align=&quot;center&quot;&gt;I&lt;/div&gt;" parent="EVoNSvgZZDJ8XkAlmknF-10" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=2;fillColor=#FFFFFF;fontSize=12;align=center;strokeColor=#E6E6E6;" vertex="1">
           <mxGeometry as="geometry" x="580" y="320" width="60" height="60"/>
+        </mxCell>
+        <mxCell id="2Q-l-OiIUTWmhhpuc4lq-67" value="&lt;div align=&quot;center&quot;&gt;L&lt;/div&gt;" parent="EVoNSvgZZDJ8XkAlmknF-10" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=2;fillColor=#ffffff;fontSize=12;align=center;" vertex="1">
+          <mxGeometry as="geometry" x="900" y="200" width="60" height="60"/>
         </mxCell>
         <mxCell id="2Q-l-OiIUTWmhhpuc4lq-42" value="edges_to_registry" parent="0" style="locked=1;"/>
         <mxCell id="2Q-l-OiIUTWmhhpuc4lq-50" parent="2Q-l-OiIUTWmhhpuc4lq-42" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;rounded=1;" edge="1">
