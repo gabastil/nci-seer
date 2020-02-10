@@ -26,10 +26,10 @@ State |  8/2018 | 1/2020 | 02/2020
 
 ---
 
-#### Other Useful Data <a id="other_useful_data"></a>
+#### Data References and the Draft Schemas <a id="other_useful_data"></a>
 
   1. [eMaRC Plus Coverage](#emarc)
-  2. TBD
+  2. [Master schema draft](#master_schema_draft)
 ---
 
 ### eMaRC Plus Coverage <a id="emarc"></a>
@@ -38,9 +38,11 @@ Electronic Mapping, Reporting, and Coding (eMaRC) Plus coverage map screenshot t
 
 <img src="20200210_emarc_states.PNG" width="75%" />
 
-MD Example for images
+### Master Schema Draft <a id="master_schema_draft"></a>
 
-![](20200210_emarc_states.png)
+This draft is a redesign and simplification of the original source data diagrams presented in subsequent sections. The aim of this master schema draft (MSD) is to accurately convey as much information regarding the flow of data from data sources to SEER*DMS in the simplest visual manner as possible.
+
+<img src="master_schema.svg?santitize=True" title="Master Schema Draft [No Image]" width="75%" />
 
 ### Connecticut <a id="Connecticut"></a>
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
