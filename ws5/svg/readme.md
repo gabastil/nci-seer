@@ -36,7 +36,11 @@ State |  8/2018 | 1/2020 | 02/2020
 
 Electronic Mapping, Reporting, and Coding (eMaRC) Plus coverage map screenshot taken in Feb. 10 2020. Status of coverage reported as last updated December 2016. [More information about eMaRC Plus can be found on the CDC's website.](https://www.cdc.gov/cancer/npcr/tools/registryplus/mp.htm).
 
-<img src="20200210_emarc_states.png?sanitize=True" width="75%" />
+<img src="20200210_emarc_states.PNG" width="75%" />
+
+MD Example for images
+
+![](20200210_emarc_states.png)
 
 ### Connecticut <a id="Connecticut"></a>
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
