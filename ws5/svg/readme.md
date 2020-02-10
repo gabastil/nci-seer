@@ -42,7 +42,7 @@ Electronic Mapping, Reporting, and Coding (eMaRC) Plus coverage map screenshot t
 
 This draft is a redesign and simplification of the original source data diagrams presented in subsequent sections. The aim of this master schema draft (MSD) is to accurately convey as much information regarding the flow of data from data sources to SEER*DMS in the simplest visual manner as possible.
 
-<img src="master_schema.svg?santitize=True" title="Master Schema Draft [No Image]" width="75%" />
+<img src="master_schema.svg?sanitize=True" width="75%" />
 
 ### Connecticut <a id="Connecticut"></a>
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
