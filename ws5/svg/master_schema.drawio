@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.6.7" host="www.draw.io" modified="2020-02-10T21:18:50.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="nUmIZ91t-m_BqqWkcyXH">
+<mxfile type="github" version="12.6.7" host="www.draw.io" modified="2020-02-10T21:22:18.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="DHIfH7UDlzXgFI_bmrH4">
   <diagram id="4_loe-rSwXjhO66IxARF" name="master_schema">
     <mxGraphModel grid="1" dx="1422" dy="751" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
         <mxCell id="2Q-l-OiIUTWmhhpuc4lq-23" value="State Department of Health" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=none;align=center;fontSize=20;fontStyle=0;strokeColor=none;" vertex="1">
           <mxGeometry as="geometry" x="300" y="160" width="500" height="40"/>
         </mxCell>
-        <mxCell id="2Q-l-OiIUTWmhhpuc4lq-24" value="&lt;div align=&quot;left&quot; style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Diagram Notes&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;font-size: 12px&quot;&gt;1. Some states&#39; cancer registries are sub-entities to their state department of health.&lt;/div&gt;" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=none;align=left;fontSize=12;fontStyle=0;strokeColor=none;verticalAlign=top;" vertex="1">
+        <mxCell id="2Q-l-OiIUTWmhhpuc4lq-24" value="&lt;div align=&quot;left&quot; style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Diagram Notes&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;font-size: 12px&quot;&gt;1. Some states&#39; cancer registries are sub-entities to their state department of health.&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;font-size: 12px&quot;&gt;2. All possible paths from data sources to registry are denoted here. Registry specific graphs will show or hide these paths depending on their relevance to that registry.&lt;/div&gt;" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=none;align=left;fontSize=12;fontStyle=0;strokeColor=none;verticalAlign=top;" vertex="1">
           <mxGeometry as="geometry" x="50" y="960" width="500" height="130"/>
         </mxCell>
         <mxCell id="EVoNSvgZZDJ8XkAlmknF-10" value="Nodes" parent="0" style=""/>
