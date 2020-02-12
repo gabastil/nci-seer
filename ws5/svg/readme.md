@@ -5,24 +5,24 @@ This folder contains the data diagram wireframes for registries. These wireframe
 
 ## Contents <a id="contents"></a>
 
-Registries with data diagrams completed are listed below with the month and year of their latest versions.
+Registries with data diagrams completed are listed below with the month and year of their latest versions. A link to a draft of the new data diagram template for each state accessible via the link in the parenthesis.
 
-State | New Diagram|  8/2018 | 1/2020 | 02/2020
---- | --- | --- | --- | ---
-[Connecticut](#Connecticut) | [New](#Connecticut_New) | | | &check;
-[Detroit](#Detroit) | [New](#Detroit_New) | | &check; |
-[Georgia](#Georgia) | [New](#Georgia_New) | &check; | |
-[Greater_Bay_Area_of_California](#Greater_Bay_Area_of_California) | [New](#Greater_Bay_Area_of_California_New) | | | &check;
-[Greater_California](#Greater_California) | [New](#Greater_California_New) | | &check; |
-[Hawaii](#Hawaii) | [New](#Hawaii_New) | | | &check;
-[Iowa](#Iowa) | [New](#Iowa_New) | | | &check;
-[Kentucky](#Kentucky) | [New](#Kentucky_New) | | | &check;
-[Los_Angeles](#Los_Angeles) | [New](#Los_Angeles_New) | | | &check;
-[Louisiana](#Louisiana) | [New](#Louisiana_New) | | | &check;
-[New_Mexico](#New_Mexico) | [New](#New_Mexico_New) | | | &check;
-[New_York](#New_York) | [New](#New_York_New) | | | &check;
-[Seattle](#Seattle) | [New](#Seattle_New) | &check; | |
-[Utah](#Utah) | [New](#Utah_New) | | &check; |
+State |  8/2018 | 1/2020 | 02/2020
+--- | --- | --- | ---
+[Connecticut](#Connecticut) ([New](#Connecticut_New)) | | | &check;
+[Detroit](#Detroit) ([New](#Detroit_New)) | | &check; |
+[Georgia](#Georgia) ([New](#Georgia_New)) | &check; | |
+[Greater_Bay_Area_of_California](#Greater_Bay_Area_of_California) ([New](#Greater_Bay_Area_of_California_New)) | | | &check;
+[Greater_California](#Greater_California) ([New](#Greater_California_New)) | | &check; |
+[Hawaii](#Hawaii) ([New](#Hawaii_New)) | | | &check;
+[Iowa](#Iowa) ([New](#Iowa_New)) | | | &check;
+[Kentucky](#Kentucky) ([New](#Kentucky_New)) | | | &check;
+[Los_Angeles](#Los_Angeles) ([New](#Los_Angeles_New)) | | | &check;
+[Louisiana](#Louisiana) ([New](#Louisiana_New)) | | | &check;
+[New_Mexico](#New_Mexico) ([New](#New_Mexico_New)) | | | &check;
+[New_York](#New_York) ([New](#New_York_New)) | | | &check;
+[Seattle](#Seattle) ([New](#Seattle_New)) | &check; | |
+[Utah](#Utah) ([New](#Utah_New)) | | &check; |
 
 ---
 
