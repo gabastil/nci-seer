@@ -7,22 +7,22 @@ This folder contains the data diagram wireframes for registries. These wireframe
 
 Registries with data diagrams completed are listed below with the month and year of their latest versions.
 
-State |  8/2018 | 1/2020 | 02/2020
---- | --- | --- | ---
-[Connecticut](#Connecticut) | | | &check;
-[Detroit](#Detroit) | | &check; |
-[Georgia](#Georgia) | &check; | |
-[Greater_Bay_Area_of_California](#Greater_Bay_Area_of_California) | | | &check;
-[Greater_California](#Greater_California) | | &check; |
-[Hawaii](#Hawaii) | | | &check;
-[Iowa](#Iowa) | | | &check;
-[Kentucky](#Kentucky) | | | &check;
-[Los_Angeles](#Los_Angeles) | | | &check;
-[Louisiana](#Louisiana) | | | &check;
-[New_Mexico](#New_Mexico) | | | &check;
-[New_York](#New_York) | | | &check;
-[Seattle](#Seattle) | &check; | |
-[Utah](#Utah) | | &check; |
+State | New Diagram|  8/2018 | 1/2020 | 02/2020
+--- | --- | --- | --- | ---
+[Connecticut](#Connecticut) | [New](#Connecticut_New) | | | &check;
+[Detroit](#Detroit) | [New](#Detroit_New) | | &check; |
+[Georgia](#Georgia) | [New](#Georgia_New) | &check; | |
+[Greater_Bay_Area_of_California](#Greater_Bay_Area_of_California) | [New](#Greater_Bay_Area_of_California_New) | | | &check;
+[Greater_California](#Greater_California) | [New](#Greater_California_New) | | &check; |
+[Hawaii](#Hawaii) | [New](#Hawaii_New) | | | &check;
+[Iowa](#Iowa) | [New](#Iowa_New) | | | &check;
+[Kentucky](#Kentucky) | [New](#Kentucky_New) | | | &check;
+[Los_Angeles](#Los_Angeles) | [New](#Los_Angeles_New) | | | &check;
+[Louisiana](#Louisiana) | [New](#Louisiana_New) | | | &check;
+[New_Mexico](#New_Mexico) | [New](#New_Mexico_New) | | | &check;
+[New_York](#New_York) | [New](#New_York_New) | | | &check;
+[Seattle](#Seattle) | [New](#Seattle_New) | &check; | |
+[Utah](#Utah) | [New](#Utah_New) | | &check; |
 
 ---
 
@@ -35,12 +35,14 @@ State |  8/2018 | 1/2020 | 02/2020
 ### eMaRC Plus Coverage <a id="emarc"></a>
 
 Electronic Mapping, Reporting, and Coding (eMaRC) Plus coverage map screenshot taken in Feb. 10 2020. Status of coverage reported as last updated December 2016. [More information about eMaRC Plus can be found on the CDC's website.](https://www.cdc.gov/cancer/npcr/tools/registryplus/mp.htm).
+([Back to Top](#contents))
 
 <img src="20200210_emarc_states.PNG" width="75%" />
 
 ### Master Schema Draft <a id="master_schema_draft"></a>
 
-This draft is a redesign and simplification of the original source data diagrams presented in subsequent sections. The aim of this master schema draft (MSD) is to accurately convey as much information regarding the flow of data from data sources to SEER*DMS in the simplest visual manner as possible.
+This draft is a redesign and simplification of the original source data diagrams presented in subsequent sections. The aim of this master schema draft (MSD) is to accurately convey as much information regarding the flow of data from data sources to SEER\*DMS in the simplest visual manner as possible.
+([Back to Top](#contents))
 
 <img src="master_schema.svg?sanitize=True" width="75%" />
 
@@ -98,6 +100,9 @@ Registry data flow diagram show how data flows from data sources to SEER\*DMS. (
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
 <img src="New_Mexico.svg?sanitize=True" width="75%" />
 
+Notes from 2/12/2020
+	1. NM to change processes to better link scanned reports to CTCs as opposed to patient profile.
+
 ### New_York <a id="New_York"></a>
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
 <img src="New_York.svg?sanitize=True" width="75%" />
@@ -109,3 +114,66 @@ Registry data flow diagram show how data flows from data sources to SEER\*DMS. (
 ### Utah <a id="Utah"></a>
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
 <img src="Utah.svg?sanitize=True" width="75%" />
+
+
+## New Data Diagrams <a id="new_data_diagrams"></a>
+
+
+### Connecticut (New) <a id="Connecticut_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Connecticut_New.svg?sanitize=True" width="75%" />
+
+### Detroit (New) <a id="Detroit_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Detroit_New.svg?sanitize=True" width="75%" />
+
+### Georgia (New) <a id="Georgia_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Georgia_New.svg?sanitize=True" width="75%" />
+
+### Greater_Bay_Area_of_California (New) <a id="Greater_Bay_Area_of_California_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Greater_Bay_Area_of_California_New.svg?sanitize=True" width="75%" />
+
+### Greater_California (New) <a id="Greater_California_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Greater_California_New.svg?sanitize=True" width="75%" />
+
+### Hawaii (New) <a id="Hawaii_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Hawaii_New.svg?sanitize=True" width="75%" />
+
+### Iowa (New) <a id="Iowa_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Iowa_New.svg?sanitize=True" width="75%" />
+
+### Kentucky (New) <a id="Kentucky_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Kentucky_New.svg?sanitize=True" width="75%" />
+
+### Los_Angeles (New) <a id="Los_Angeles_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Los_Angeles_New.svg?sanitize=True" width="75%" />
+
+### Louisiana (New) <a id="Louisiana_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Louisiana_New.svg?sanitize=True" width="75%" />
+
+### New_Mexico (New) <a id="New_Mexico_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="New_Mexico_New.svg?sanitize=True" width="75%" />
+
+Notes from 2/12/2020
+	1. NM to change processes to better link scanned reports to CTCs as opposed to patient profile.
+
+### New_York (New) <a id="New_York_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="New_York_New.svg?sanitize=True" width="75%" />
+
+### Seattle (New) <a id="Seattle_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Seattle_New.svg?sanitize=True" width="75%" />
+
+### Utah (New) <a id="Utah_New"></a>
+Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
+<img src="Utah_New.svg?sanitize=True" width="75%" />
