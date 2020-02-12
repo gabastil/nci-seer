@@ -1,0 +1,111 @@
+<!--
+	FILE: 	diagram-panels.html
+	AUTHOR: Glenn Abastillas
+	DATE: 	January 10, 2020
+	DESCRIPTION: This document contains wireframes and drafts for data flow
+	diagrams for presentation and workshop sessions.
+
+	This document follows graphic-panel model for displaying the diagram. Template shapes and paths
+	are derived from SVG images wireframed from an SVG editor. Current collection of template wire-
+	frames can be found at the following GitHub repo:
+
+		Repo: https://github.com/gabastil/nci-seer
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Data Flow Wireframes</title>
+	<link rel="stylesheet" type="text/css" href="css/diagram-panels-template.css">
+</head>
+<body>
+
+	<div class="menu">
+		<span id="title">SEER Data Flow Diagram</span>
+		<span>Wireframe | </span>
+
+		<ul>
+			<!--
+				Registry tabs enable to the user to toggle between different data diagrams.
+
+				Actions:
+					click - load the SVG elements for the registry name.
+					onload - load all possible registry data available.
+
+				Tags:
+					<li><a href=""> Registry Name or Digraph </a></li>
+			-->
+		</ul>
+	</div>
+
+	<div class="content">
+		<div class="center-panel">
+			<div class="graphic">
+				<!--
+					The SVG elemented contained in .graphic contains all possible nodes and edges.
+
+					Actions:
+						click - user clicks on an .edge or .node
+						hover - user hovers over an .edge or .node
+
+					Behaviors:
+						click
+							- toggle between active and inactive .edge or .node
+
+						hover
+							- if .edge or .node is active, show info box
+							- if .edge or .node is inactive, indicate ability to activate
+
+					Shapes:
+						node
+							- <circle class="node" /> for non-data storage
+							- <path class="node" /> for data storage
+						edge
+							- <path class="edge" />
+
+						group
+							- <g id="group-name"></g> for each region in the diagram
+				-->
+				<svg viewbox="0 0 100 100" preserveAspectRatio="xMinYMin none">
+					<g id="external-sources"></g>
+					<g id="registry"></g>
+					<g id="seer-dms"></g>
+				</svg>
+			</div>
+
+			<div class="info">
+				<section id="name">New York State Cancer Registry</section>
+				<section id="website">
+					<a href="https://www.health.ny.gov/statistics/cancer/registry/" target="_blank">
+						Registry Homepage
+					</a>
+				</section>
+				<section id="location">Albany, New York</section>
+				<section id="contact">+1 (866) 881 2809</section>
+				<section id="stats">
+					<table>
+						<tr >
+							<td id="table-headers">Volume</td>
+						</tr>
+						<tr>
+							<td id="table-values">127,500</td>
+						</tr>
+						<tr>
+
+						</tr>
+						<tr >
+							<td id="table-headers">Reportability</td>
+						</tr>
+						<tr >
+							<td id="table-values">79.2%</td>
+						</tr>
+					</table>
+				</section>
+				<section id="description">
+					The New York State Cancer Registry ...
+				</section>
+				<section id="notes">This registry developed and implements its own data transmission and capture system called UPHN Lite in addition to other methods of data transmission.</section>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
