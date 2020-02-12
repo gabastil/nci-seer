@@ -10,6 +10,8 @@
 	frames can be found at the following GitHub repo:
 
 		Repo: https://github.com/gabastil/nci-seer
+
+	This template contains the following
 -->
 <!DOCTYPE html>
 <html>
@@ -20,21 +22,23 @@
 <body>
 
 	<div class="menu">
-		<span id="title">SEER Data Flow Diagram</span>
-		<span>Wireframe | </span>
+		<div class="nav">
+			<span id="title">SEER Data Flow Diagram</span>
+			<span>Wireframe | </span>
 
-		<ul>
-			<!--
-				Registry tabs enable to the user to toggle between different data diagrams.
+			<ul>
+				<!--
+					Registry tabs enable to the user to toggle between different data diagrams.
 
-				Actions:
-					click - load the SVG elements for the registry name.
-					onload - load all possible registry data available.
+					Actions:
+						click - load the SVG elements for the registry name.
+						onload - load all possible registry data available.
 
-				Tags:
-					<li><a href=""> Registry Name or Digraph </a></li>
-			-->
-		</ul>
+					Tags:
+						<li><a href=""> Registry Name or Digraph </a></li>
+				-->
+			</ul>
+		</div>
 	</div>
 
 	<div class="content">
@@ -73,37 +77,35 @@
 			</div>
 
 			<div class="info">
-				<section id="name">New York State Cancer Registry</section>
+				<input id="name" type="text" placeholder="Registry"></input>
 				<section id="website">
-					<a href="https://www.health.ny.gov/statistics/cancer/registry/" target="_blank">
-						Registry Homepage
+					<a href="" target="_blank">
+						Website
 					</a>
 				</section>
-				<section id="location">Albany, New York</section>
-				<section id="contact">+1 (866) 881 2809</section>
+				<input id="location" type="text" placeholder="City, State"></input>
+				<input id="contact" type="text" placeholder="+1 (XXX) XXX-XXXX"></input>
 				<section id="stats">
 					<table>
 						<tr >
 							<td id="table-headers">Volume</td>
 						</tr>
 						<tr>
-							<td id="table-values">127,500</td>
+							<td id="table-values"><input id="table-values" type="text" placeholder="XX"></input></td>
 						</tr>
 						<tr>
 
 						</tr>
 						<tr >
-							<td id="table-headers">Reportability</td>
+							<td id="table-headers">Reportability (%)</td>
 						</tr>
 						<tr >
-							<td id="table-values">79.2%</td>
+							<td id="table-values"><input id="table-values" type="text" placeholder="XX"></input></td>
 						</tr>
 					</table>
 				</section>
-				<section id="description">
-					The New York State Cancer Registry ...
-				</section>
-				<section id="notes">This registry developed and implements its own data transmission and capture system called UPHN Lite in addition to other methods of data transmission.</section>
+				<textarea id="description" type="text" placeholder="Registry description."></textarea>
+				<textarea id="notes" type="text" placeholder="Further information."></textarea>
 			</div>
 		</div>
 	</div>
