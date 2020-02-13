@@ -58,10 +58,10 @@ Date | Note
 2/13/2020 | Marina asked Jennifer Stevens to review her pull and the instructions to get those data just to confirm.
 2/13/2020 | JS histological confirmation comes from the CTC not the path report.
 2/13/2020 | JS just looking at the specimen date, it includes reports that must have been linked to a CTC
-| IMS needs to double check with regard to how they are calculating statistics based on PDFs, ePath, and paper reports coming to the registry for coverage.
-| Will need to rerun the metrics and will use 2018 and 2019 data instead
-| From AIM, data goes to registry, get uploaded manually through WSAPI
-| Data through PHINMS, data goes to registry, processed in transmed and then uploaded to IMS
+2/13/2020 | IMS needs to double check with regard to how they are calculating statistics based on PDFs, ePath, and paper reports coming to the registry for coverage.
+2/13/2020 | Will need to rerun the metrics and will use 2018 and 2019 data instead
+2/13/2020 | From AIM, data goes to registry, get uploaded manually through WSAPI
+2/13/2020 | Data through PHINMS, data goes to registry, processed in transmed and then uploaded to IMS
 
 ### Detroit <a id="Detroit"></a>
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
