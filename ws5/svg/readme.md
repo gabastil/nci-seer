@@ -109,6 +109,16 @@ Registry data flow diagram show how data flows from data sources to SEER\*DMS. (
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
 <img src="Louisiana.svg?sanitize=True" width="75%" />
 
+##### Meeting Notes
+
+Date | Note
+--- | ---
+2/20/2020 | Add PHINMS, Fax, and Mail routes
+2/20/2020 | Change sFTP route to go through the registry's local file system first
+2/20/2020 | New route that goes through APHL (sFTP) to the state's DoH, which sFTPs the data to the registry
+
+
+
 ### New_Mexico <a id="New_Mexico"></a>
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
 <img src="New_Mexico.svg?sanitize=True" width="75%" />
