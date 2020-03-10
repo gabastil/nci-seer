@@ -3,6 +3,8 @@ February 5, 2020 | Glenn Abastillas
 
 This folder contains the data diagram wireframes for registries. These wireframes are in .svg format and can be opened via [draw.io](draw.io) or Visio software.
 
+**Notice** : The [`New` versions](#new_data_diagrams) of each data diagram are conceptual and not final. There are only a handful of diagram files in the new format.
+
 ## Contents <a id="contents"></a>
 
 Registries with data diagrams completed are listed below with the month and year of their latest versions. A link to a draft of the new data diagram template for each state accessible via the link in the parenthesis.
@@ -50,7 +52,7 @@ This draft is a redesign and simplification of the original source data diagrams
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
 <img src="Connecticut.svg?sanitize=True" width="75%" />
 
-##### Meeting Notes
+##### Connecticut Meeting Notes
 
 Date | Note
 --- | ---
@@ -83,15 +85,18 @@ Registry data flow diagram show how data flows from data sources to SEER\*DMS. (
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
 <img src="Hawaii.svg?sanitize=True" width="75%" />
 
-Notes from 2/7/2020 -- Responses are from HI
+##### Hawaii Meeting Notes
 
-    1. AIM CNS Imagining is not implemented. Not part of their normal processing.
-    1. AIM EPath Network probably not being used, HI was not familiary with its implementation.
-    1. EPath Monitor is realistically just there for a QC of sorts.
-    1. After AIM processing, the files go to the in-house DB processing system.
-    1. For paper reports, it would be an external source called FAX. It is scanned into an internal document management system and then data entered into SEER\*DMS.
-    1. Currently not utilizing DMS's imaging system.
-    1. All images are external to SEER*DMS
+Date | Note
+--- | ---
+02/07/2020 | AIM CNS Imagining is not implemented. Not part of their normal processing.
+02/07/2020 | AIM EPath Network probably not being used, HI was not familiary with its implementation.
+02/07/2020 | EPath Monitor is realistically just there for a QC of sorts.
+02/07/2020 | After AIM processing, the files go to the in-house DB processing system.
+02/07/2020 | For paper reports, it would be an external source called FAX. It is 
+02/07/2020 | scanned into an internal document management system and then data entered into SEER*DMS.
+02/07/2020 | Currently not utilizing DMS's imaging system.
+02/07/2020 | All images are external to SEER*DMS
 
 ### Iowa <a id="Iowa"></a>
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
@@ -109,7 +114,7 @@ Registry data flow diagram show how data flows from data sources to SEER\*DMS. (
 Registry data flow diagram show how data flows from data sources to SEER\*DMS. ([Back to Top](#contents))
 <img src="Louisiana.svg?sanitize=True" width="75%" />
 
-##### Meeting Notes
+##### Louisiana Meeting Notes
 
 Date | Note
 --- | ---
